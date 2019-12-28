@@ -1,6 +1,6 @@
 # Python - Cryptography School Assignments
 
-This repository contains cryptography assignments programmed in Python 3.6 during my enrollment at Stockton University.
+This repository contains cryptography assignments programmed in Python 3.6 during my enrollment at Stockton University. It is intended to be a portfolio repository.
 
 ## Instructions to quickly run and verify the code:
 1. Copy the desired code
@@ -8,7 +8,7 @@ This repository contains cryptography assignments programmed in Python 3.6 durin
 3. Paste the code accordingly
 4. Run the code
 
-*The code can now run and be tested.*
+*The code should now be running accordingly.*
 
 ### Description of each program:
 
